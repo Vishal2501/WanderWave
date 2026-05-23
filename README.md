@@ -2,18 +2,7 @@
 
 # 🌊 WanderWave
 
-### *Your journey begins here — discover, book, and explore hotels worldwide.*
-
-![WanderWave Banner](https://img.shields.io/badge/WanderWave-Hotel%20Booking-0ea5e9?style=for-the-badge&logo=airbnb&logoColor=white)
-
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
-[![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-
 </div>
-
----
 
 ## 📖 About WanderWave
 
